@@ -1,4 +1,4 @@
-THIS IS A FORK - MOST OF THE CREDIT GOES TO https://github.com/BELABOX
+:: SAVING THIS FOR HISTORICAL REASONS ::
 
 # belaUI
 Web interface for BELABOX
